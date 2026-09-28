@@ -2,10 +2,6 @@
 
 Full-stack developer building web apps with **React + TypeScript** on the front end and **C# / ASP.NET Core** on the back end. Based in Giza, Egypt. By day I troubleshoot payment API integrations at a fintech company; the rest of the time I build and test things.
 
-- 🎓 B.Sc. Information Systems & Computer Science, 6 October University
-- 📚 Front-End Development Diploma, Route Academy (in progress)
-- 🧪 I write tests for what I build (xUnit, Vitest) and run them in GitHub Actions
-
 ## Featured projects
 
 | Project | What it is | Stack |
